@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CS246-scripture</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_display_scripture">DisplayScriptureActivity</string>
+</resources>
